@@ -1,0 +1,13 @@
+# Dependencias de Node.js
+node_modules/
+
+# Archivos de TypeScript compilados (si usas una carpeta 'dist')
+dist/
+
+# Variables de entorno y archivos sensibles
+.env
+*.log
+
+# Archivos específicos del sistema operativo (opcional pero bueno tenerlos)
+.DS_Store
+Thumbs.db
